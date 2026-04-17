@@ -6,4 +6,9 @@
 程序作者：Meartraep 由AI辅助编写
 
 要使用这个程序，使用者须在电脑上部署ffmpeg
-请访问https://ffmpeg.org/download.html 来下载适应自己系统的版本
+请访问https://ffmpeg.org/download.html 来下载适应自己系统的版本并加入系统环境变量
+程序的部署方式：
+bash
+git clone https://github.com/Meartraep/HALL-rhythm-engine.git
+cd HALL-rhythm-engine
+pip install -r requirements.txt
