@@ -42,6 +42,7 @@ git clone https://github.com/Meartraep/HALL-rhythm-engine.git
 cd HALL-rhythm-engine
 pip install -r requirements.txt
 ```
+Open HALL.zip.001 with an unzip software and extract HALL.flac
 Then run:
 
 ```bash
